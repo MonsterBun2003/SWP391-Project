@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jest-mock-express": "^0.1.1",
+    "sinon": "^18.0.0"
+  }
+}
